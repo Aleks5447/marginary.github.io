@@ -1,0 +1,11 @@
+.body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    color: #f2e2c4;
+    padding: inherit;         
+}
+
+.container {
+    width: 100%;
+    height: 100vh;
+}

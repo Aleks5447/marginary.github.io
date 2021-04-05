@@ -2,7 +2,8 @@
     font-family: 'Montserrat', sans-serif;
     font-size: 30px;
     color: #f2e2c4;
-    padding: inherit;         
+    padding: inherit;
+    margin: 0 auto;
 }
 
 .container {
